@@ -1,3 +1,5 @@
+> **NOTE:** This is an upgrade of the react-awesome-lightbox package to React 18.
+
 # Lightbox-like Image viewer for React
 Lightbox image image viewer for react with zoom, rotate and move feature with single or multi image. Includes basic touch support. 
 
